@@ -1,1 +1,1 @@
-Blood-Bank-Management-Sysytem
+Blood-Bank-Management-System
